@@ -1,0 +1,9 @@
+ir/bigz/springTest/RepositoryTest.class
+ir/bigz/springTest/ServiceTest.class
+ir/bigz/springTest/controller/ProductControllerMockTest.class
+ir/bigz/springTest/controller/ProductControllerSpringbootTest.class
+ir/bigz/springTest/TestH2Repository.class
+ir/bigz/springTest/integration/ProductIntegrationTest.class
+ir/bigz/springTest/controller/ProductControllerMockWithApplicationContextTest.class
+ir/bigz/springTest/controller/FirstSampleControllerTest.class
+ir/bigz/springTest/controller/ProductControllerMockMvcStandaloneTest.class
